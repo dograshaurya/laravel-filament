@@ -1,8 +1,8 @@
-Filament Laravel Admin Panel
+## Filament Laravel Admin Panel
 
 This is a Filament-powered admin panel built with Laravel. Filament is a powerful tool for creating beautiful admin dashboards, resource management, and form handling with minimal effort.
 
-🚀 Features
+## 🚀 Features
 
 Admin Panel with a user-friendly interface
 
