@@ -10,10 +10,6 @@ CRUD Operations for managing posts
 
 Filament v3 Integration for tables and forms
 
-Authentication & Authorization (Laravel Breeze / Jetstream)
-
-Role-based Access Control (RBAC) (optional)
-
 Responsive Design with Tailwind CSS
 
 🛠 Installation & Setup
