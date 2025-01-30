@@ -74,10 +74,10 @@ Default Admin Credentials:
 
 For deploying the project, use Laravel Forge, DigitalOcean, or any hosting provider with PHP and MySQL support. Recommended steps:
 
-composer install --no-dev --optimize-autoloader
-php artisan config:cache
-php artisan route:cache
-php artisan migrate --force
+    composer install --no-dev --optimize-autoloader
+    php artisan config:cache
+    php artisan route:cache
+    php artisan migrate --force
 
 📄 License
 
